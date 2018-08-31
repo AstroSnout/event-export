@@ -1,9 +1,21 @@
 ## Interface: 80000
 ## X-Min-Interface: 70300
-## Version: 8.0.1
-## Title: EventExport
+## Version: 1.01
+## Title: |cFF00cc00EventExport|r
 ## Author: Trishma
-## Notes: String export for .csv parser for Albino Toilet Boys (EU Kazzak)
-## RequiredDeps: Blizzard_Calendar
+## Notes: Exports various data from game into pastable strings in order to help with guild management
+## RequiredDeps: Blizzard_Calendar, Blizzard_Communities
+## OptionalDeps: LibBase64, Ace3
 
+# Embeds
+embeds.xml
+
+# Core
 EventExport.lua
+
+# Libs
+Libs\LibStub\LibStub.lua
+Libs\LibCompress\LibCompress.lua
+Libs\LibParse\LibParse.lua
+Libs\LibBase64-1.0\LibBase64-1.0.lua
+Libs\AceSerializer-3.0\AceSerializer-3.0.lua
