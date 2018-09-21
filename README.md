@@ -1,4 +1,4 @@
-This is a simple exporter addon that works in tandem with EventExporter Discord chat bot ([invite link here](https://discord.gg/anbsKQX)). The addon can currently export the following: 
+This is a simple exporter addon for World of Warcraft that works in tandem with EventExporter Discord chat bot ([invite link here](https://discord.gg/anbsKQX)). The addon can currently export the following: 
 
 - **Event roster export** - There's an 'Export' button bellow the event frame in the Calendar. Click it to generate a string that will later parse into a spreadsheet containing 2 columns - Player names (with cells class-colored) and Invite status (Accepted, Declined, etc.) 
 
