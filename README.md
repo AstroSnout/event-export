@@ -34,5 +34,3 @@ Great question. Most of these make managing a guild slightly easier.
  
 I'm always open to new ideas, so feel free to DM me your ideas over on Discord - [@Trishma#6911](https://discordapp.com/channels/@me/217294231125884929)
 
-The code is also open-sourced and can be found [here](https://github.com/AstroSnout/event-exporter)
-
