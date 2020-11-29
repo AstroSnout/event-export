@@ -32,5 +32,5 @@ Great question. Most of these make managing a guild slightly easier.
  
 ### Can you implement {insert some feature here}?
  
-I'm always open to new ideas, so feel free to DM me your ideas over on Discord - [@Trishma#6911](https://discordapp.com/channels/@me/217294231125884929)
+I'm always open to new ideas, so feel free to DM me your ideas over on Discord - [@Trishma#0702](https://discordapp.com/channels/@me/217294231125884929)
 
